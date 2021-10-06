@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luodiw
-- 👀 Code in C++, Python, Java, Javascript, C
+- 👀 Code in Python, Java, Javascript, C++, C
 - 🚀 What I use: PyTorch, TensorFlow, Node JS, AWS, JSON, MySQL 
 - 💞️ Looking to collaborate on blockchain tech and decentralized networks
 - 📫 How to reach me https://twitter.com/luodiwg
