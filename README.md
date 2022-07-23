@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luodiw
+- Hello! I'm Luodi. 
 
 <!---
 luodiw/luodiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
