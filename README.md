@@ -1,4 +1,4 @@
-# 👋🏻 Hi there!
+## 👋 Hi there!
 
 I'm Luodi. I center around impactful projects in Python, JS, and sometimes in C++ - and always learning new tools and technologies! Explore around my projects and featured ones on my website.
 
