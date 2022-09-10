@@ -10,3 +10,6 @@ electronic mail at lwang1289 [@] gmail [dot] com.
 Say hi, [I love making new friends!](https://lettersfromhomeandaway.substack.com/p/-letter-36-on-friendship?s=r&curius=1419)
 
 With ❤️, Luodi
+
+[![Luod's's GitHub stats](https://github-readme-stats.vercel.app/api?username=luodiw)](https://github.com/anuraghazra/github-readme-stats)
+
