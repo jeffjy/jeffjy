@@ -11,5 +11,5 @@ Say hi, [I love making new friends!](https://lettersfromhomeandaway.substack.com
 
 With ❤️, Luodi
 
-[![Luodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luodiw)](https://github.com/anuraghazra/github-readme-stats)
+[Luodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
