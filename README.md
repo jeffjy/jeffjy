@@ -1,10 +1,9 @@
-## 👋 Hi, I'm Luodi
+### hi, I'm Luodi
 
-I center around fun and cool projects in Python, Java, JS, C++ & always experimenting with new tech stacks! Explore around my projects (some repos are private)
+I create ambitious software for impact and design that inspires others to innovate. My projects center around building scalable software for daily applications, some theory, and some centering around learning new frameworks and languages 
 
-my website is [luodi.github.io](luodi.github.io)
-electronic mail at lwang1289 [@] gmail [dot] com
+and, check out my projects! 
 
-Say hi, [I love making new friends](https://lettersfromhomeandaway.substack.com/p/-letter-36-on-friendship?s=r&curius=1419) 
+i love to meet new people and chat! contact me at contact me at [lwang1289@gmail.com](mailto:lwang1289@gmail.com)
 
-With ❤️, Luodi
+[LinkedIn](https://www.linkedin.com/in/luodiwang/) | [website](wluodi.com)
