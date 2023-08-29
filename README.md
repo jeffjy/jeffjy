@@ -2,10 +2,12 @@
 
 I create ambitious software for impact and design that inspires others to innovate. My projects center around building scalable software for daily applications, some theory, and some centering around learning new frameworks and languages 
 
-and, check out my projects! 
+and, check out my projects! Previously, 
+- interned at Fidelity Investments coding internal enterprise prod
+- worked on robotics & computer vision research
+
 
 ### What I'm Currently Working On
-- Interning at Fidelity coding internal enterprise prod
 - Building personal software with AI
 - Bio hacking!
 
