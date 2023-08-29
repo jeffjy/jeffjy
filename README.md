@@ -13,4 +13,4 @@ On my free time, I take too many runs under the sun, read, and explore new thing
 
 i love to meet new people and chat, contact me at contact me at [lwang1289@gmail.com](mailto:lwang1289@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/luodiwang/) | [website](wluodi.com)
+[LinkedIn](https://www.linkedin.com/in/luodiwang/) | [website](https://www.wluodi.com)
