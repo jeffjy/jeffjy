@@ -1,12 +1,14 @@
-### hi, I'm Luodi
+### Hi, I'm Luodi
 
 I love building things and toys. Toys that give me and others joy, fun, inspiration, shortcuts. 
 
 ### What I'm Currently Working On
-exploring new waters...
+I'm currently learning Rust. I'm exploring new things in LLMs and ML. 
 
-On my free time, I 🏃🚵‍♀️🧘🌾
+On my free time, I like to 🏃🚵‍♀️🧘
 
-i love to meet new people and chat, contact me at contact me at [lwang1289@gmail.com](mailto:lwang1289@gmail.com)
+I love to meet new people and chat, feel free to reach out to me!
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/WglwMR)
 
 [LinkedIn](https://www.linkedin.com/in/luodiwang/) | [website](https://www.wluodi.com)
