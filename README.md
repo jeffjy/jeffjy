@@ -10,5 +10,6 @@ On my free time, I like to 🏃🚵‍♀️🧘
 I love to meet new people and chat, feel free to reach out to me!
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/WglwMR)
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 [LinkedIn](https://www.linkedin.com/in/luodiwang/) | [website](https://www.wluodi.com)
