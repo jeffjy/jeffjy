@@ -6,8 +6,6 @@
 I love building things and toys. Toys that give me and others joy, fun, inspiration, shortcuts. 
 
 ### About Me
-I'm currently exploring new tools. 
-
 On my free time, I like to 🏃🚵‍♀️🧘
 
 I love to meet new people and chat, feel free to reach out to me!
