@@ -6,7 +6,7 @@
 I love building things and toys. Toys that give me and others joy, fun, inspiration, shortcuts. 
 
 ### About Me
-I'm currently exploring new tools in AI. 
+I'm currently exploring new tools. 
 
 On my free time, I like to 🏃🚵‍♀️🧘
 
