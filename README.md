@@ -3,7 +3,7 @@
 
 ### Hi, I'm Luodi
 
-I love building things and toys. Toys that give me and others joy, fun, inspiration, shortcuts. 
+I love building things and toys. Toys that give me and others joy, fun, inspiration. 
 
 ### About Me
 On my free time, I like to 🏃🚵‍♀️🧘
