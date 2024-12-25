@@ -7,5 +7,3 @@ I love building things and toys. Toys that give me and others joy, fun, inspirat
 
 ### About Me
 On my free time, I like to 🏃🚵‍♀️🧘
-
-![](https://leetcard.jacoblin.cool/wanglg?ext=heatmap)
