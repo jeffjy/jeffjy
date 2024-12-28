@@ -39,5 +39,5 @@ Hi there 👋, I'm Luodi. I'm currently a senior Computer Science and Mathematic
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB&logoColor=green)
 ![AmazonDynamoDB](https://img.shields.io/badge/AmazonDynamoDB-05122A?style=flat&logo=AmazonDynamoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=Redis&logoColor=red)
-![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=orange)
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=yelloworange)
 ![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=Supabase&logoColor=mintgreen)
