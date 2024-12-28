@@ -21,7 +21,7 @@ Hi there 👋, I'm Luodi. I'm currently a senior Computer Science and Mathematic
 ![Scala](https://img.shields.io/badge/Scala-05122A?style=flat&logo=scala&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte&logoColor=FF3E00)
-![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=Angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=Angular&logoColor=red)
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-05122A?style=flat&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)
