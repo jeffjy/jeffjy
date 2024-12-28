@@ -19,4 +19,4 @@ On my free time, I like to 🏃🚵‍♀️🧘
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte&logoColor=FF3E00)
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)\
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)
