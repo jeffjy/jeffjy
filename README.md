@@ -26,6 +26,7 @@ Hi there 👋, I'm Luodi. I'm currently a senior Computer Science and Mathematic
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-05122A?style=flat&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql&logoColor=white)
 
 
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=AWS&logoColor=white)
