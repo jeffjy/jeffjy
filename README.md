@@ -1,12 +1,12 @@
+# About Me
+
+Hi there 👋, I'm Luodi. I like to build things and toys that bring joy, are fun, and give others inspiration. 
+
+📖 I am currently building fullstack applications for home services companies. <br>
+👯 I am looking to collaborate on: Anything cool! <br>
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luodiwang/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lwang1289@gmail.com)
-
-### Hi, I'm Luodi
-
-I love building things and toys. Toys that give me and others joy, fun, inspiration. 
-
-### About Me
-On my free time, I like to 🏃🚵‍♀️🧘
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luodiw9@gmail.com)
 
 ### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
