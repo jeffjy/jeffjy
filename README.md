@@ -3,7 +3,7 @@
 Hi there 👋, I'm Luodi. I'm currently a senior Computer Science and Mathematics student. I like to build things and toys that bring joy, are fun, and give others inspiration. 
 
 📖 I am currently building fullstack applications for home services companies. <br>
-🐶 I also work on study apps and fun apps for college students with @UCCS. <br>
+🐶 I also work on study apps and fun apps for college students with @Union-College-Computer-Society. <br>
 👯 I am looking to collaborate on: Anything cool! <br>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luodiwang/)
