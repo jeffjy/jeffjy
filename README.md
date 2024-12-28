@@ -17,7 +17,7 @@ Hi there 👋, I'm Luodi. I'm currently a senior Computer Science and Mathematic
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=lightblue)\
 ![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=orange)
-![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go&logoColor=blue)
 ![Scala](https://img.shields.io/badge/Scala-05122A?style=flat&logo=scala&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte&logoColor=FF3E00)
