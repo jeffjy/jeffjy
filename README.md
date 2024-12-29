@@ -3,7 +3,7 @@
 Hi there 👋, I'm Luodi. I'm currently a senior Computer Science and Mathematics student. I like to build things and toys that bring joy, are fun, and give others inspiration. 
 
 📖 I am currently building fullstack applications for home services companies. <br>
-🐶 I founded a CS Society at my school to build fun apps and useful tools for the community at [Union College Computer Society](https://github.com/Union-College-Computer-Society) serving as a supplement to ITS for providing resources that'd be out of reach of individuals. <br>
+🐶 I like to build toys, tools, and apps that gives people joy and inspiration. <br>
 👯 I am looking to collaborate on: Anything cool! <br>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luodiwang/)
