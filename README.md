@@ -2,7 +2,7 @@
 
 Hi there 👋, I'm Luodi. I'm currently a senior Computer Science and Mathematics student. I like to build things and toys that bring joy, are fun, and give others inspiration. 
 
-📖 I am currently building fullstack applications for home services companies. <br>
+📖 I am currently building fullstack applications for a 🧽 home services company based in NYC. <br>
 🐶 I like to build toys, tools, and apps that gives people joy and inspiration. <br>
 👯 I am looking to collaborate on: Anything cool! <br>
 
