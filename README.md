@@ -5,7 +5,7 @@ Hi there 👋, I'm Jeff. I like to build things and toys that bring joy, are fun
 🐶 I like to build toys, tools, and apps that gives people joy and inspiration. <br>
 👯 I am looking to collaborate on: Anything cool! <br>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luodiwang/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffjy/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luodiw9@gmail.com)
 
 ### Technologies
