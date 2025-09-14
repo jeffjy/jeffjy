@@ -1,6 +1,6 @@
 # About Me
 
-Hi there 👋, I'm Jeff. I like to build things and toys that bring joy, are fun, and give others inspiration. 
+Hi there 👋, I'm Jeff. 
 
 🐶 I like to build toys, tools, and apps that gives people joy and inspiration. <br>
 👯 I am looking to collaborate on: Anything cool! <br>
